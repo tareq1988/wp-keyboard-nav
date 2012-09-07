@@ -1,0 +1,49 @@
+#mouse {
+    opacity: 0.85;
+    background: #222222;
+    color: #FFFFFF;
+    font-family: arial,sans-serif;
+    font-weight: bold;
+    left: 15%;
+    overflow: hidden;
+    position: fixed;
+    text-align: center;
+    top: 10%;
+    width: 70%;
+    z-index: 9999;
+    border-radius: 5px;
+    display: none;
+}
+
+#mouse .inner {
+    opacity: 1;
+    color: #fff;
+    padding: 10px;
+}
+
+#mouse h1 {
+    font-size: 20px;
+    text-align: center;
+    padding: 0 0 10px 0;
+    margin: 0 0 15px 0;
+    border-bottom: 1px dashed #6B6B6B;
+}
+
+#mouse table {
+    width: 100%;
+}
+
+#mouse .divide {
+    width: 50%;
+}
+
+#mouse .inner td {
+    padding: 3px 5px;
+    color: #fff;
+    font-size: 13px;
+    font-family: arial,sans-serif;
+}
+
+#mouse .inner .cmd { color: #DDDD00; font-size: 14px; font-family: Monaco, Consolas, "Liberation Mono", "courier new", Courier, monospace; }
+#mouse .inner .thn { color: #4EACA0; font-size: 11px; }
+#mouse .inner .help { color: #9B9B9B; font-size: 11px; font-style: italic; padding: 0 0 0 5px; }
