@@ -2,6 +2,10 @@
 
 Keyboard Navigation is a simple WordPress plugin to navigation WordPress site via keyboard. The easiest and the fastest way to navigate through your site.
 
+## Screenshots
+
+![Shortcut Help](https://github.com/tareq1988/wp-keyboard-nav/raw/master/screenshot-1.png "Shortcut navigation help")
+
 ## Shortcuts
 - `?` → Toggle the help area
 - `/` → Focus the search box
@@ -23,4 +27,4 @@ Keyboard Navigation is a simple WordPress plugin to navigation WordPress site vi
 - `g` then `s` → settings 	Go to settings page
 
 ## Extend
-[Mousetrap](https://github.com/ccampbell/mousetrap) was used as the shortcut handling library and it's easily extendable. Fork the plugin if you are interested :)
+[Mousetrap](https://github.com/ccampbell/mousetrap) was used as the shortcut handling library. So adding new shortcuts can be added easily. Fork the plugin if you are interested :)
