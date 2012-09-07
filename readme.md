@@ -27,4 +27,4 @@ Keyboard Navigation is a simple WordPress plugin to navigation WordPress site vi
 - `g` then `s` → settings 	Go to settings page
 
 ## Extend
-[Mousetrap](https://github.com/ccampbell/mousetrap) was used as the shortcut handling library. So adding new shortcuts can be added easily. Fork the plugin if you are interested :)
+[Mousetrap](https://github.com/ccampbell/mousetrap) was used as the shortcut handling library. So new shortcuts can be added very easily. Fork the plugin if you are interested :)
