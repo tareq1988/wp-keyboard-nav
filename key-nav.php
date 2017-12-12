@@ -116,6 +116,6 @@ function kn_help_helper($args, $abbr = '', $desc = '') {
         <td><?php echo $abbr == '' ? '&nbsp' : '<span class="help">&rarr; ' . $abbr . '</span>' ?></td>
         <td><?php echo $desc == '' ? '&nbsp' : $desc; ?></td>
     </tr>    
-    <?
+    <?php
 }
 
